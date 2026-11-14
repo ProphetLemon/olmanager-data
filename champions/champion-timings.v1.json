@@ -1,0 +1,3332 @@
+{
+  "schemaVersion": 2,
+  "dataset": "champion-timings",
+  "defaultTiming": "Unknown",
+  "catalog": {
+    "game_patch": "16.10",
+    "ddragon_version": "16.10.1",
+    "captured_at": "2026-11-07",
+    "visual_catalog": "assets/simulation/champions.json",
+    "visual_catalog_extracted_at": "2026-04-17T01:15:05.050Z"
+  },
+  "provenance": {
+    "status": "generated_placeholder",
+    "statement": "Generated locally as a placeholder because the published dataset commit was never pushed. All timings are Unknown; not verified or official data."
+  },
+  "methodology": {
+    "classification": "Timing values are derived, not an official Riot Games classification. In this placeholder every champion is Unknown, so the fit score stays neutral.",
+    "timing_values": [
+      "Early",
+      "Mid",
+      "Late",
+      "Unknown"
+    ]
+  },
+  "sources": [
+    {
+      "id": "local-generated-placeholder",
+      "url": "file:assets/simulation/champions.json",
+      "description": "Roles copied from the local visual catalog; timing has no external source."
+    }
+  ],
+  "data": {
+    "Aatrox": {
+      "champion_id": "Aatrox",
+      "roles": [
+        "Top",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ahri": {
+      "champion_id": "Ahri",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Akali": {
+      "champion_id": "Akali",
+      "roles": [
+        "Top",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Akshan": {
+      "champion_id": "Akshan",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Alistar": {
+      "champion_id": "Alistar",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ambessa": {
+      "champion_id": "Ambessa",
+      "roles": [
+        "Top",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Amumu": {
+      "champion_id": "Amumu",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Anivia": {
+      "champion_id": "Anivia",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Annie": {
+      "champion_id": "Annie",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Aphelios": {
+      "champion_id": "Aphelios",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ashe": {
+      "champion_id": "Ashe",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "AurelionSol": {
+      "champion_id": "AurelionSol",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Aurora": {
+      "champion_id": "Aurora",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Azir": {
+      "champion_id": "Azir",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Bard": {
+      "champion_id": "Bard",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Belveth": {
+      "champion_id": "Belveth",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Blitzcrank": {
+      "champion_id": "Blitzcrank",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Brand": {
+      "champion_id": "Brand",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Braum": {
+      "champion_id": "Braum",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Briar": {
+      "champion_id": "Briar",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Caitlyn": {
+      "champion_id": "Caitlyn",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Camille": {
+      "champion_id": "Camille",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Cassiopeia": {
+      "champion_id": "Cassiopeia",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Chogath": {
+      "champion_id": "Chogath",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Corki": {
+      "champion_id": "Corki",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Darius": {
+      "champion_id": "Darius",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Diana": {
+      "champion_id": "Diana",
+      "roles": [
+        "Jungle",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "DrMundo": {
+      "champion_id": "DrMundo",
+      "roles": [
+        "Top",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Draven": {
+      "champion_id": "Draven",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ekko": {
+      "champion_id": "Ekko",
+      "roles": [
+        "Jungle",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Elise": {
+      "champion_id": "Elise",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Evelynn": {
+      "champion_id": "Evelynn",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ezreal": {
+      "champion_id": "Ezreal",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Fiddlesticks": {
+      "champion_id": "Fiddlesticks",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Fiora": {
+      "champion_id": "Fiora",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Fizz": {
+      "champion_id": "Fizz",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Galio": {
+      "champion_id": "Galio",
+      "roles": [
+        "Mid",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Gangplank": {
+      "champion_id": "Gangplank",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Garen": {
+      "champion_id": "Garen",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Gnar": {
+      "champion_id": "Gnar",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Gragas": {
+      "champion_id": "Gragas",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Graves": {
+      "champion_id": "Graves",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Gwen": {
+      "champion_id": "Gwen",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Hecarim": {
+      "champion_id": "Hecarim",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Heimerdinger": {
+      "champion_id": "Heimerdinger",
+      "roles": [
+        "Mid",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Hwei": {
+      "champion_id": "Hwei",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Illaoi": {
+      "champion_id": "Illaoi",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Irelia": {
+      "champion_id": "Irelia",
+      "roles": [
+        "Top",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ivern": {
+      "champion_id": "Ivern",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Janna": {
+      "champion_id": "Janna",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "JarvanIV": {
+      "champion_id": "JarvanIV",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Jax": {
+      "champion_id": "Jax",
+      "roles": [
+        "Top",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Jayce": {
+      "champion_id": "Jayce",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Jhin": {
+      "champion_id": "Jhin",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Jinx": {
+      "champion_id": "Jinx",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "KSante": {
+      "champion_id": "KSante",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kaisa": {
+      "champion_id": "Kaisa",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kalista": {
+      "champion_id": "Kalista",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Karma": {
+      "champion_id": "Karma",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Karthus": {
+      "champion_id": "Karthus",
+      "roles": [
+        "Mid",
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kassadin": {
+      "champion_id": "Kassadin",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Katarina": {
+      "champion_id": "Katarina",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kayle": {
+      "champion_id": "Kayle",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kayn": {
+      "champion_id": "Kayn",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kennen": {
+      "champion_id": "Kennen",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Khazix": {
+      "champion_id": "Khazix",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kindred": {
+      "champion_id": "Kindred",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Kled": {
+      "champion_id": "Kled",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "KogMaw": {
+      "champion_id": "KogMaw",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Leblanc": {
+      "champion_id": "Leblanc",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "LeeSin": {
+      "champion_id": "LeeSin",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Leona": {
+      "champion_id": "Leona",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Lillia": {
+      "champion_id": "Lillia",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Lissandra": {
+      "champion_id": "Lissandra",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Lucian": {
+      "champion_id": "Lucian",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Lulu": {
+      "champion_id": "Lulu",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Lux": {
+      "champion_id": "Lux",
+      "roles": [
+        "Mid",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Malphite": {
+      "champion_id": "Malphite",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Malzahar": {
+      "champion_id": "Malzahar",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Maokai": {
+      "champion_id": "Maokai",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "MasterYi": {
+      "champion_id": "MasterYi",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Mel": {
+      "champion_id": "Mel",
+      "roles": [
+        "Mid",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Milio": {
+      "champion_id": "Milio",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "MissFortune": {
+      "champion_id": "MissFortune",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "MonkeyKing": {
+      "champion_id": "MonkeyKing",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Mordekaiser": {
+      "champion_id": "Mordekaiser",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Morgana": {
+      "champion_id": "Morgana",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Naafiri": {
+      "champion_id": "Naafiri",
+      "roles": [
+        "Jungle",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Nami": {
+      "champion_id": "Nami",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Nasus": {
+      "champion_id": "Nasus",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Nautilus": {
+      "champion_id": "Nautilus",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Neeko": {
+      "champion_id": "Neeko",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Nidalee": {
+      "champion_id": "Nidalee",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Nilah": {
+      "champion_id": "Nilah",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Nocturne": {
+      "champion_id": "Nocturne",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Nunu": {
+      "champion_id": "Nunu",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Olaf": {
+      "champion_id": "Olaf",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Orianna": {
+      "champion_id": "Orianna",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ornn": {
+      "champion_id": "Ornn",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Pantheon": {
+      "champion_id": "Pantheon",
+      "roles": [
+        "Support",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Poppy": {
+      "champion_id": "Poppy",
+      "roles": [
+        "Jungle",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Pyke": {
+      "champion_id": "Pyke",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Qiyana": {
+      "champion_id": "Qiyana",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Quinn": {
+      "champion_id": "Quinn",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Rakan": {
+      "champion_id": "Rakan",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Rammus": {
+      "champion_id": "Rammus",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "RekSai": {
+      "champion_id": "RekSai",
+      "roles": [
+        "Jungle",
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Rell": {
+      "champion_id": "Rell",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Renata": {
+      "champion_id": "Renata",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Renekton": {
+      "champion_id": "Renekton",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Rengar": {
+      "champion_id": "Rengar",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Riven": {
+      "champion_id": "Riven",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Rumble": {
+      "champion_id": "Rumble",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ryze": {
+      "champion_id": "Ryze",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Samira": {
+      "champion_id": "Samira",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Sejuani": {
+      "champion_id": "Sejuani",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Senna": {
+      "champion_id": "Senna",
+      "roles": [
+        "Bot",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Seraphine": {
+      "champion_id": "Seraphine",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Sett": {
+      "champion_id": "Sett",
+      "roles": [
+        "Top",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Shaco": {
+      "champion_id": "Shaco",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Shen": {
+      "champion_id": "Shen",
+      "roles": [
+        "Top",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Shyvana": {
+      "champion_id": "Shyvana",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Singed": {
+      "champion_id": "Singed",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Sion": {
+      "champion_id": "Sion",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Sivir": {
+      "champion_id": "Sivir",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Skarner": {
+      "champion_id": "Skarner",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Smolder": {
+      "champion_id": "Smolder",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Sona": {
+      "champion_id": "Sona",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Soraka": {
+      "champion_id": "Soraka",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Swain": {
+      "champion_id": "Swain",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Sylas": {
+      "champion_id": "Sylas",
+      "roles": [
+        "Jungle",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Syndra": {
+      "champion_id": "Syndra",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "TahmKench": {
+      "champion_id": "TahmKench",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Taliyah": {
+      "champion_id": "Taliyah",
+      "roles": [
+        "Mid",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Talon": {
+      "champion_id": "Talon",
+      "roles": [
+        "Jungle",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Taric": {
+      "champion_id": "Taric",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Teemo": {
+      "champion_id": "Teemo",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Thresh": {
+      "champion_id": "Thresh",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Tristana": {
+      "champion_id": "Tristana",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Trundle": {
+      "champion_id": "Trundle",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Tryndamere": {
+      "champion_id": "Tryndamere",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "TwistedFate": {
+      "champion_id": "TwistedFate",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Twitch": {
+      "champion_id": "Twitch",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Udyr": {
+      "champion_id": "Udyr",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Urgot": {
+      "champion_id": "Urgot",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Varus": {
+      "champion_id": "Varus",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Vayne": {
+      "champion_id": "Vayne",
+      "roles": [
+        "Top",
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Veigar": {
+      "champion_id": "Veigar",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Velkoz": {
+      "champion_id": "Velkoz",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Vex": {
+      "champion_id": "Vex",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Vi": {
+      "champion_id": "Vi",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Viego": {
+      "champion_id": "Viego",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Viktor": {
+      "champion_id": "Viktor",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Vladimir": {
+      "champion_id": "Vladimir",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Volibear": {
+      "champion_id": "Volibear",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Warwick": {
+      "champion_id": "Warwick",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Xayah": {
+      "champion_id": "Xayah",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Xerath": {
+      "champion_id": "Xerath",
+      "roles": [
+        "Mid",
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "XinZhao": {
+      "champion_id": "XinZhao",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Yasuo": {
+      "champion_id": "Yasuo",
+      "roles": [
+        "Top",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Yone": {
+      "champion_id": "Yone",
+      "roles": [
+        "Top",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Yorick": {
+      "champion_id": "Yorick",
+      "roles": [
+        "Top"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Yunara": {
+      "champion_id": "Yunara",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Yuumi": {
+      "champion_id": "Yuumi",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Zaahen": {
+      "champion_id": "Zaahen",
+      "roles": [
+        "Top",
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Zac": {
+      "champion_id": "Zac",
+      "roles": [
+        "Jungle"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Zed": {
+      "champion_id": "Zed",
+      "roles": [
+        "Jungle",
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Zeri": {
+      "champion_id": "Zeri",
+      "roles": [
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Ziggs": {
+      "champion_id": "Ziggs",
+      "roles": [
+        "Mid",
+        "Bot"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Zilean": {
+      "champion_id": "Zilean",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Zoe": {
+      "champion_id": "Zoe",
+      "roles": [
+        "Mid"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    },
+    "Zyra": {
+      "champion_id": "Zyra",
+      "roles": [
+        "Support"
+      ],
+      "timing": "Unknown",
+      "status": "unknown",
+      "confidence": "low",
+      "scope": "role-invariant",
+      "evidence": "Timing is derived locally as a neutral placeholder (Unknown) because the visual catalog has no timing signal; this is not an official Riot Games classification and has not been independently verified.",
+      "source_basis": [
+        "local-generated-placeholder"
+      ],
+      "review_flags": [
+        "placeholder_unverified",
+        "needs_sourced_timing_review"
+      ],
+      "last_verified": "2026-11-07"
+    }
+  }
+}
