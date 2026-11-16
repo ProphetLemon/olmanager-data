@@ -1649,36 +1649,6 @@
       "potential_base": 0,
       "stats": {},
       "profile_image_url": null
-    },
-    {
-      "id": "player-f4e49f51",
-      "career": [],
-      "morale": 100,
-      "fitness": 100,
-      "condition": 100,
-      "full_name": "Însane",
-      "attributes": {
-        "mechanics": 68,
-        "laning": 64,
-        "teamfighting": 67,
-        "macro_play": 65,
-        "consistency": 64,
-        "shotcalling": 60,
-        "champion_pool": 61,
-        "discipline": 60,
-        "mental_resilience": 63
-      },
-      "match_name": "Însane",
-      "position": "Support",
-      "team_id": "team-47ce6033",
-      "nationality": "TN",
-      "date_of_birth": null,
-      "wage": 0,
-      "market_value": 0,
-      "contract_end": "",
-      "potential_base": 0,
-      "stats": {},
-      "profile_image_url": null
     }
   ]
 }
